@@ -286,9 +286,11 @@ header p{
 .myWork .project7{
 	margin-left: 2%;
 	margin-right: 1.5%;
-	background-image: url(../img/circle.jpg);
+	background-image: url(../img/Circle.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
+	
+
 }
 
 .myWork .project8{
