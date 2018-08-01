@@ -621,9 +621,9 @@ footer:after{
 
 }
 
-
+/*
 @media only screen and (max-width: 768px) {
-	/* For mobile phones: */
+
 	
 	.AboutMe{
 		width: 90%;
@@ -678,12 +678,14 @@ footer:after{
 		transition: all 0.5s ease; 
 	}
 
-}
+} 
+*/
 
-@media only screen and (min-width: 600px) {
+@media only screen and (max-width: 768px) {
+
 
 	.AboutMe{
-		width: 110%;
+		width: 100%;
 	}
 	
 	.AboutMe:after{
