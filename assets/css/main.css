@@ -682,7 +682,9 @@ footer:after{
 */
 
 @media only screen and (max-width: 768px) {
-
+	body{
+		overflow-x: hidden;
+	}
 
 	.AboutMe{
 		width: 100%;
