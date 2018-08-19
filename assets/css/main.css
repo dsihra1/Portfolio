@@ -414,7 +414,7 @@ header p{
 
 .myWork .overlay:hover{
 	background-color: rgba(0,0,0,0.6);
-	padding-top:110px;
+	padding-top:55px;
 	transition: all 0.5s ease;
 }
 
@@ -428,6 +428,23 @@ header p{
 	color: #fff;
 	font-weight: bold;
 	position: center;
+}
+
+.overlay h6{
+	
+	font-size: 18px;
+	color: white;
+	font-weight: bold;
+	position: center;
+	margin-bottom: 10px;
+	
+}
+
+.overlay p{
+	font-size: 15px;
+	color: white;
+	position: center;
+	margin-bottom: 75px;
 }
 
 .MoreProject a{
@@ -776,6 +793,24 @@ footer:after{
 		background-color: white;
 		color: blue;
 		transition: all 0.5s ease; 
+	}
+
+	.myWork .project4{
+		margin-left: 2%;
+		margin-right: 1.5%;
+		background-image: url(../img/electrical.png);
+		background-repeat: no-repeat;
+		background-size: 90% 90%;
+	}
+
+	.myWork .project10{
+		margin-left: 2%;
+		margin-right: 1.5%;
+		background-image: url(../img/area.png);
+		background-repeat: no-repeat;
+		background-size: 100%;
+		background-position: center;
+		
 	}
 
 } 
